@@ -1,0 +1,13 @@
+# Fortran build files
+*.o
+*.mod
+*.exe
+*.out
+
+# Editor configs
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
